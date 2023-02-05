@@ -14,5 +14,5 @@ textures -> <br>
 &emsp;-> face1.png <br>
 &emsp;-> face2.png <br>
 &emsp;-> face3.png <br><br>
-...and a JSON file containing the prefixes "eyes" and "face", the following script will create 2 texture arrays, one for the eyes and one for the face.
-`python3 Main.py <PATH TO YOUR TEXTURES> <YOUR PREFIXES JSON FILE> <OUTPUT PATH>
+...and a JSON file containing the prefixes "eyes" and "face", the following script will create 2 texture arrays, one for the eyes and one for the face. <br>
+`python3 Main.py <PATH TO YOUR TEXTURES> <YOUR PREFIXES JSON FILE> <OUTPUT PATH>`
